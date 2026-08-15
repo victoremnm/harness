@@ -4,9 +4,6 @@ A GitHub template for repositories built with AI agents. It gives a new project
 isolated worktrees, reviewable PRs, portable CI, opt-in CD, and releases from
 conventional commits.
 
-It does not require ClickHouse, a database, cloud credentials, or a deployment
-provider. Local subagent telemetry is an ignored NDJSON file.
-
 Create a repository from this template, replace `{{REPOSITORY_NAME}}` in
 `AGENTS.md`, and install the workflow skills:
 
